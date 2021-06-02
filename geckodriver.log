@@ -1,0 +1,84 @@
+1622523477437	geckodriver	INFO	Listening on 127.0.0.1:60073
+1622523480495	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\yaswa\\AppData\\Local\\Temp\\rust_mozprofile2q9Ipo"
+1622523481159	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1622523483423	Marionette	INFO	Listening on port 60082
+1622523483674	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://tms.capitalone.com/capitalone/prod/code/a23fe9c8601c3b19fc1625622f2d256e.js?conditionId0=380567, line 1778: asm.js type error: cannot create array view without an asm.js heap parameter
+1622523578554	Marionette	INFO	Stopped listening on port 60082
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1622523704776	geckodriver	INFO	Listening on 127.0.0.1:60260
+1622523707818	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\yaswa\\AppData\\Local\\Temp\\rust_mozprofile4ezlL9"
+1622523708166	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1622523710135	Marionette	INFO	Listening on port 60268
+1622523710469	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://tms.capitalone.com/capitalone/prod/code/a23fe9c8601c3b19fc1625622f2d256e.js?conditionId0=380567, line 1778: asm.js type error: cannot create array view without an asm.js heap parameter
+1622523811772	Marionette	INFO	Stopped listening on port 60268
+1622523907797	geckodriver	INFO	Listening on 127.0.0.1:60411
+1622523910821	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\yaswa\\AppData\\Local\\Temp\\rust_mozprofileih7Ro7"
+1622523911223	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1622523913428	Marionette	INFO	Listening on port 60419
+1622523913492	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://tms.capitalone.com/capitalone/prod/code/a23fe9c8601c3b19fc1625622f2d256e.js?conditionId0=380567, line 1778: asm.js type error: cannot create array view without an asm.js heap parameter
+1622524067113	Marionette	INFO	Stopped listening on port 60419
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+"--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\yaswa\\AppData\\Local\\Temp\\rust_mozprofilewB4H9n"
+1622524064703	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1622524066998	Marionette	INFO	Listening on port 60548
+1622524067508	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://tms.capitalone.com/capitalone/prod/code/a23fe9c8601c3b19fc1625622f2d256e.js?conditionId0=380567, line 1778: asm.js type error: cannot create array view without an asm.js heap parameter
+1622524208263	Marionette	INFO	Stopped listening on port 60548
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1622583636057	geckodriver	INFO	Listening on 127.0.0.1:65142
+1622583639081	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\yaswa\\AppData\\Local\\Temp\\rust_mozprofileTIxUZa"
+1622583640048	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1622583643874	Marionette	INFO	Listening on port 65150
+1622583643945	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://tms.capitalone.com/capitalone/prod/code/21b795e4f506a4ef1698089da795b3e0.js?conditionId0=380567, line 1580: asm.js type error: cannot create array view without an asm.js heap parameter
+1622584294688	Marionette	INFO	Stopped listening on port 65150
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1622618326932	geckodriver	INFO	Listening on 127.0.0.1:60343
+1622618329968	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\yaswa\\AppData\\Local\\Temp\\rust_mozprofileJ35pyI"
+1622618330801	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1622618334824	Marionette	INFO	Listening on port 60352
+1622618335318	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://tms.capitalone.com/capitalone/prod/code/21b795e4f506a4ef1698089da795b3e0.js?conditionId0=380567, line 1580: asm.js type error: cannot create array view without an asm.js heap parameter
+1622618346687	Marionette	INFO	Stopped listening on port 60352
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1622618383312	geckodriver	INFO	Listening on 127.0.0.1:60458
+1622618386354	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\yaswa\\AppData\\Local\\Temp\\rust_mozprofilecVq5v7"
+1622618387304	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1622618390573	Marionette	INFO	Listening on port 60466
+1622618390685	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://tms.capitalone.com/capitalone/prod/code/21b795e4f506a4ef1698089da795b3e0.js?conditionId0=380567, line 1580: asm.js type error: cannot create array view without an asm.js heap parameter
+1622618433866	Marionette	INFO	Stopped listening on port 60466
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1622618980649	geckodriver	INFO	Listening on 127.0.0.1:60707
+1622618983703	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\yaswa\\AppData\\Local\\Temp\\rust_mozprofilecXwEJY"
+1622618986507	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1622618996685	Marionette	INFO	Listening on port 60715
+1622618997067	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://tms.capitalone.com/capitalone/prod/code/21b795e4f506a4ef1698089da795b3e0.js?conditionId0=380567, line 1580: asm.js type error: cannot create array view without an asm.js heap parameter
+1622619092306	Marionette	INFO	Stopped listening on port 60715
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
